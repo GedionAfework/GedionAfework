@@ -1,6 +1,6 @@
 # Hi, I'm Gedion Mekbeb Afework
 
-**Full-Stack Developer | Data Scientist | MLOps Engineer**  
+**Full-Stack Developer | Data Scientist**  
 Addis Ababa, Ethiopia
 
 ---
@@ -63,7 +63,7 @@ I build **AI that scales**, **apps that load in 50ms**, and **dashboards that ma
 <br/><br/>
 
 <!-- ROW 6 – Data & BI Tools -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="50" title="Tableau"/>
+<img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg](https://share.google/images/1zB0pTpRTELhBGpXp)" height="50" title="Tableau"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" height="50" title="Power BI"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="50" title="Excel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" title="Matplotlib"/>
