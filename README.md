@@ -87,9 +87,3 @@ I'm a passionate full-stack developer and data scientist building scalable appli
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <i>Profile last updated: November 2025</i>
-</div>
