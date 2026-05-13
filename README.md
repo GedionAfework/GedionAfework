@@ -1,6 +1,6 @@
-# Hi, I'm Gedion Mekbeb Afework
+# Hi, I'm Gedion
 
-**Full-Stack Developer
+Software Engineer | Full-Stack Developer | Mobile Developer
 Addis Ababa, Ethiopia
 
 <div>
